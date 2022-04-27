@@ -1,10 +1,9 @@
 # Rotational_Drift_From_Space
 
-This repository contains the code used to produce the manuscript "Rotational drift in Antarctic sea ice: pronounced cyclonic features and differences between data products" submitted to The Cryosphere
+This repository contains the code used to produce the manuscript "Rotational drift in Antarctic sea ice: pronounced cyclonic features and differences between data products" submitted to the Copernicus peer reviewed journal The Cryosphere
 
-de Jager, W. and Vichi, M.: Rotational drift in Antarctic sea ice: pronounced cyclonic features and differences between data products, The Cryosphere Discuss. [preprint], https://doi.org/10.5194/tc-2021-144, in review, 2021. *
+de Jager, W. and Vichi, M.: Rotational drift in Antarctic sea ice: pronounced cyclonic features and differences between data products, The Cryosphere, 16, 925–940, https://doi.org/10.5194/tc-16-925-2022, 2022.
 
-*Title in reference DOI to be updated after completion of the review process.
 
 
 
